@@ -1,0 +1,30 @@
+.container {
+    max-width: 500px;
+    margin: 20px auto;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-control {
+    height: 40px;
+    border-radius: 5px;
+}
+
+.btn {
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.cuadros {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.cuadros div {
+    margin: 5px;
+    border-radius: 5px;
+}
